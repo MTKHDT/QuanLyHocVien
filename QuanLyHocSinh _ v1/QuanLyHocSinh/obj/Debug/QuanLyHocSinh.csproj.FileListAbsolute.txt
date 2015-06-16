@@ -1,0 +1,15 @@
+c:\users\sangthanh\documents\visual studio 2013\Projects\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csprojResolveAssemblyReference.cache
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Properties.Resources.resources
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csproj.GenerateResource.Cache
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder\trunk\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe.config
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.pdb
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csprojResolveAssemblyReference.cache
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Form1.resources
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.FormShow.resources
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.Properties.Resources.resources
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csproj.GenerateResource.Cache
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.exe
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.pdb

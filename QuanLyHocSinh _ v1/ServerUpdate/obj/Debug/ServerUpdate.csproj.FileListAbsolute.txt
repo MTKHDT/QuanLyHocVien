@@ -1,0 +1,11 @@
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerUpdate\bin\Debug\ServerUpdate.dll
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerUpdate\bin\Debug\ServerUpdate.pdb
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerUpdate\obj\Debug\ServerUpdate.dll
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerUpdate\obj\Debug\ServerUpdate.pdb
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\ServerUpdate\obj\Debug\ServerUpdate.dll
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\ServerUpdate\obj\Debug\ServerUpdate.pdb
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\ServerUpdate\bin\Debug\ServerUpdate.dll
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\ServerUpdate\bin\Debug\ServerUpdate.pdb
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\ServerUpdate\bin\Debug\Server.dll
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\ServerUpdate\bin\Debug\Server.pdb
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\ServerUpdate\obj\Debug\ServerUpdate.csprojResolveAssemblyReference.cache

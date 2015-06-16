@@ -1,0 +1,10 @@
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerDelete\bin\Debug\ServerDelete.dll
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerDelete\bin\Debug\ServerDelete.pdb
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerDelete\obj\Debug\ServerDelete.dll
+C:\Users\SangThanh\documents\visual studio 2013\Projects\QuanLyHocSinh\ServerDelete\obj\Debug\ServerDelete.pdb
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\ServerDelete\obj\Debug\ServerDelete.dll
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\ServerDelete\obj\Debug\ServerDelete.pdb
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\ServerDelete\bin\Debug\ServerDelete.dll
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\ServerDelete\bin\Debug\ServerDelete.pdb
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\ServerDelete\bin\Debug\Server.dll
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\ServerDelete\bin\Debug\Server.pdb

@@ -1,0 +1,4 @@
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\Server\bin\Debug\Server.dll
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\Server\bin\Debug\Server.pdb
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\Server\obj\Debug\Server.dll
+C:\Users\SangThanh\Documents\Visual Studio 2013\Projects\New folder (2)\trunk\QuanLyHocSinh\Server\obj\Debug\Server.pdb
